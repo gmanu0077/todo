@@ -1,0 +1,17 @@
+body{
+   background-image: url('back.jpg');
+   background-repeat: no-repeat;
+   background-size: cover; 
+}
+
+
+h1{
+    position: relative;
+}
+.card{
+   
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+
